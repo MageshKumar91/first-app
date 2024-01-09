@@ -1,13 +1,13 @@
 import React from "react";
 
-class ClassComponent extends React.Component{
+class ClassComponent extends React.Component {
     // constructor(){
     //     super()
     // }
-    render(){
-        return(
-        <div>
-            <h1>New Project</h1></div>
+    render() {
+        return (
+            <div>
+                <h1>New Project</h1></div>
         );
     }
 }
